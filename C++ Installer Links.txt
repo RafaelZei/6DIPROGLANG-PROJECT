@@ -1,0 +1,12 @@
+
+*Link on how to install C++ in VS Code
+
+https://code.visualstudio.com/docs/languages/cpp
+
+
+*Link for Install MinGW-x64 on Windows
+
+https://github.com/msys2/msys2-installer/releases/download/2024-12-08/msys2-x86_64-20241208.exe
+
+
+
